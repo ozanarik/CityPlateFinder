@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="CityPlateCode">Please enter the licence plate code</string>
+    <string name="find">Find</string>
+    <string name="result">City name</string>
+
+</resources>
